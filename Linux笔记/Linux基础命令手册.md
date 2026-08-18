@@ -108,7 +108,7 @@
  - 功能：设置文件权限为所有者读写执行、其他用户读执行
 ### chmod 644 test.txt
  - 功能：设置普通文件默认权限
-###chown secuser test.txt
+### chown secuser test.txt
  - 功能：修改文件所有者为secuser
 
 ## 四、系统基础信息类命令
@@ -139,6 +139,6 @@
 ### free -h
  - 功能：查看内存使用情况
  - 常用实例：
- ```bash
+  ```bash
   free -h
   # 输出：（此处省略详细信息）
